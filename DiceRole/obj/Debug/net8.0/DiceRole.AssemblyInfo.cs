@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceRole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168e2e237463c774b6da1c2f290966642458338c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4401c552e50a1303dea950a3a0cc9a1b5e5eb385")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceRole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceRole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
