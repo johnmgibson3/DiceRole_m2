@@ -1,0 +1,4 @@
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.AssemblyInfoInputs.cache
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.AssemblyInfo.cs
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.csproj.CoreCompileInputs.cache
