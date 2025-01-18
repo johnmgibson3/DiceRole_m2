@@ -20,9 +20,6 @@
             Console.WriteLine("Each \"*\" represents 1% of the total number of rolls.");
             Console.WriteLine("Total number of rolls = " + numOfRolls);
             
-            
-            
-            
             Console.WriteLine("\nResults: \n");
             
             //  Print chart for results
@@ -33,10 +30,10 @@
                 
                 int stars = (int)Math.Round(percentage);
                 
-                // Build a string of '*' characters
+                // Build a string of *
                 string starline = new string('*', stars);
                 
-                // Print the sum and its asterisks
+                // Print the sum and asterisks
                 Console.WriteLine(sum + ": " + starline);
             }
 
