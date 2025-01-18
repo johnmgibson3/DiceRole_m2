@@ -2,3 +2,14 @@
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.AssemblyInfoInputs.cache
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.AssemblyInfo.cs
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.csproj.CoreCompileInputs.cache
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/bin/Debug/net8.0/DiceRole
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/bin/Debug/net8.0/DiceRole.deps.json
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/bin/Debug/net8.0/DiceRole.runtimeconfig.json
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/bin/Debug/net8.0/DiceRole.dll
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/bin/Debug/net8.0/DiceRole.pdb
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.sourcelink.json
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.dll
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/refint/DiceRole.dll
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.pdb
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/DiceRole.genruntimeconfig.cache
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/DiceRole/DiceRole/obj/Debug/net8.0/ref/DiceRole.dll
